@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<!--
 ### ✔️ I'm currently learning
 - Open CV, Pytorch, C++
 
@@ -24,7 +24,7 @@
 
 <br>
 
-
+-->
 
 <!--
 **54mir/54mir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
