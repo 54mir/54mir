@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Open CV, Pytorch, C++
+### 🌱 I’m currently learning
+- Open CV, Pytorch, C++
 
 ### 📫 How to reach me: 
 - LinkedIn: <a href = "https://www.linkedin.com/in/samir-patel-/">Samir Patel</a>
