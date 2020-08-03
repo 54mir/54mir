@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Masters Candidate at UPenn studying Computer & Information Science. I love solving problems, especially those that increase social well-being. I'm facinated by the capacity technology and computation have in facilitating positive change. I understand its power and the enourmous responsibility that comes with it. 
+I'm a Masters Candidate at UPenn studying Computer & Information Science. I love solving problems, especially those that increase social well-being. I'm facinated by the capacity technology and computation have in facilitating positive change. I understand its power and the enormous responsibility that comes with it. 
 <br>
 - 🔭 I’m currently working on: Facial Keypoint Detection, and a Task Management App
 - 🌱 I’m currently learning: Open CV, Pytorch, C++
