@@ -1,10 +1,9 @@
 ### Hi there 👋
-
-### 🌱 I’m currently learning
-- Open CV, Pytorch, C++
-
-### 📫 How to reach me: 
-- LinkedIn: <a href = "https://www.linkedin.com/in/samir-patel-/">Samir Patel</a>
+I'm a Masters Candidate at UPenn studying Computer & Information Science. I love solving problems, especially those that increase social well-being. I'm facinated by the reach technology and computation have in facilitating positive change. 
+<br>
+- 🔭 I’m currently working on: Facial Keypoint Detection, and a Task Management App
+- 🌱 I’m currently learning: Open CV, Pytorch, C++
+- 📫 How to reach me: <a href = "https://www.linkedin.com/in/samir-patel-/">LinkedIn</a>
 
 <!--
 ### ✔️ I'm currently learning
