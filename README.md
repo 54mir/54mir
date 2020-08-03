@@ -3,6 +3,7 @@ I'm a Masters Candidate at UPenn studying Computer & Information Science. I love
 <br>
 - 🔭 I’m currently working on: Facial Keypoint Detection, and a Task Management App
 - 🌱 I’m currently learning: Open CV, Pytorch, C++
+- 🌴 Fun fact: I love composing music. This <a href = "http://www.muteandexpressive.com/wp-content/uploads/2014/12/A-Prayer-For-Flight_SamirPatel_upload.mp3">piece</a> won a competition at UT Austin. 
 - 📫 How to reach me: <a href = "https://www.linkedin.com/in/samir-patel-/">LinkedIn</a>
 
 <!--
