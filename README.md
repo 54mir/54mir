@@ -1,8 +1,6 @@
 ### Hi there 👋
-I'm a Masters Candidate at UPenn studying Computer & Information Science. I love solving problems, especially those that increase social well-being. I'm facinated by the capacity technology and computation have in facilitating positive change. I understand its power and the enormous responsibility that comes with it. 
-<br>
-- 🔭 I’m currently working on: Facial Keypoint Detection, and a Project Management App
-- 🌱 I’m currently learning: Go, React, Open CV
+I'm a Masters Candidate at UPenn studying Computer & Information Science. 
+
 - 🌴 Fun fact: I love composing music. This <a href = "http://www.muteandexpressive.com/wp-content/uploads/2020/10/A-Prayer-For-Flight_SamirPatel_upload.mp3" target="_blank">piece</a> won a competition at UT Austin. 
 - 📫 How to reach me: <a href = "https://www.linkedin.com/in/samir-patel-/">LinkedIn</a>
 
